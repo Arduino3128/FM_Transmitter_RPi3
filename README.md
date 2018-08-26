@@ -1,4 +1,4 @@
-# fm_transmitter
+# Fm_Transmitter_RPi
 
 Use Raspberry Pi as FM transmitter. Works on any RPi board.
 
